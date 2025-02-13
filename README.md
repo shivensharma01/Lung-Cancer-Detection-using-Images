@@ -1,4 +1,4 @@
-# Lung Cancer Detection Using Images
+# Lung and Colon Cancer Detection Using Images
 
 ## 📌 Overview
 This project leverages **Deep Learning** techniques to detect lung cancer using medical images (CT scans or X-rays). The model is trained using **Convolutional Neural Networks (CNNs)** and **Vision Transformers** to achieve high accuracy in classifying cancerous and non-cancerous lung scans.
