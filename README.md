@@ -21,6 +21,8 @@ This project leverages **Deep Learning** techniques to detect lung cancer using 
 ## 📂 About the Dataset
 This project uses the **LC25000** dataset, which consists of **25,000 histopathological images** of lung and colon tissue. The images were generated from HIPAA-compliant and validated sources and were augmented using the **Augmentor** package.
 
+Dataset link: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+
 ### 📊 Dataset Summary:
 - **Total Images:** 25,000
 - **Resolution:** 768 × 768 pixels (JPEG format)
