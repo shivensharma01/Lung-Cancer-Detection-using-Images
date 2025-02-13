@@ -49,12 +49,12 @@ url= {https://github.com/tampapath/lung_colon_image_set}
 }
 ```
 
-###📊 Results & Performance
+## 📊 Results & Performance
 Achieved high accuracy (~95%) on the test set.
 Improved model efficiency by reducing data size by 40% while maintaining performance.
 Robust to variations in lung scans with enhanced generalization.
 
-🔥 Future Improvements
+## 🔥 Future Improvements
 Hyperparameter tuning to further improve accuracy.
 Integration with cloud services (GCP/AWS) for real-time deployment.
 Deployment as a web app for user-friendly access.
